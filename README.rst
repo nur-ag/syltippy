@@ -39,8 +39,8 @@ As you can see, we get the syllables and stress for our not-so-long but just-so-
 them into a hyphenated string with the stressed syllable in all caps. 
 Supercalifragilisticoespialidoso indeed!
 
-# License
----------
+License
+-------
 
 Syltippy is released under the same license as the original TIP syllabizer, GNU General Public 
 License. 
